@@ -1,0 +1,90 @@
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\bin\Debug\net6.0\OpenTK-Cubo.exe
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\bin\Debug\net6.0\OpenTK-Cubo.deps.json
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\bin\Debug\net6.0\OpenTK-Cubo.runtimeconfig.json
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\bin\Debug\net6.0\OpenTK-Cubo.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\bin\Debug\net6.0\OpenTK-Cubo.pdb
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\bin\Debug\net6.0\OpenTK.Compute.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\bin\Debug\net6.0\OpenTK.Core.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\bin\Debug\net6.0\OpenTK.Graphics.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\bin\Debug\net6.0\OpenTK.Input.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\bin\Debug\net6.0\OpenTK.Mathematics.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\bin\Debug\net6.0\OpenTK.OpenAL.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\bin\Debug\net6.0\runtimes\osx-arm64\native\libglfw.3.dylib
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\obj\Debug\net6.0\OpenTK-Cubo.csproj.AssemblyReference.cache
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\obj\Debug\net6.0\OpenTK-Cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\obj\Debug\net6.0\OpenTK-Cubo.AssemblyInfoInputs.cache
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\obj\Debug\net6.0\OpenTK-Cubo.AssemblyInfo.cs
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\obj\Debug\net6.0\OpenTK-Cubo.csproj.CoreCompileInputs.cache
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\obj\Debug\net6.0\OpenTK-Cubo.csproj.CopyComplete
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\obj\Debug\net6.0\OpenTK-Cubo.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\obj\Debug\net6.0\refint\OpenTK-Cubo.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\obj\Debug\net6.0\OpenTK-Cubo.pdb
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\obj\Debug\net6.0\OpenTK-Cubo.genruntimeconfig.cache
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo\obj\Debug\net6.0\ref\OpenTK-Cubo.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\bin\Debug\net6.0\OpenTK-Cubo.exe
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\bin\Debug\net6.0\OpenTK-Cubo.deps.json
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\bin\Debug\net6.0\OpenTK-Cubo.runtimeconfig.json
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\bin\Debug\net6.0\OpenTK-Cubo.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\bin\Debug\net6.0\OpenTK-Cubo.pdb
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\bin\Debug\net6.0\OpenTK.Compute.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\bin\Debug\net6.0\OpenTK.Core.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\bin\Debug\net6.0\OpenTK.Graphics.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\bin\Debug\net6.0\OpenTK.Input.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\bin\Debug\net6.0\OpenTK.Mathematics.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\bin\Debug\net6.0\OpenTK.OpenAL.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\bin\Debug\net6.0\runtimes\osx-arm64\native\libglfw.3.dylib
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\obj\Debug\net6.0\OpenTK-Cubo.csproj.AssemblyReference.cache
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\obj\Debug\net6.0\OpenTK-Cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\obj\Debug\net6.0\OpenTK-Cubo.AssemblyInfoInputs.cache
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\obj\Debug\net6.0\OpenTK-Cubo.AssemblyInfo.cs
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\obj\Debug\net6.0\OpenTK-Cubo.csproj.CoreCompileInputs.cache
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\obj\Debug\net6.0\OpenTK-Cubo.csproj.CopyComplete
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\obj\Debug\net6.0\OpenTK-Cubo.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\obj\Debug\net6.0\refint\OpenTK-Cubo.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\obj\Debug\net6.0\OpenTK-Cubo.pdb
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\obj\Debug\net6.0\OpenTK-Cubo.genruntimeconfig.cache
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo - Phong\obj\Debug\net6.0\ref\OpenTK-Cubo.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\bin\Debug\net6.0\OpenTK-Cubo.exe
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\bin\Debug\net6.0\OpenTK-Cubo.deps.json
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\bin\Debug\net6.0\OpenTK-Cubo.runtimeconfig.json
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\bin\Debug\net6.0\OpenTK-Cubo.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\bin\Debug\net6.0\OpenTK-Cubo.pdb
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\bin\Debug\net6.0\OpenTK.Compute.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\bin\Debug\net6.0\OpenTK.Core.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\bin\Debug\net6.0\OpenTK.Graphics.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\bin\Debug\net6.0\OpenTK.Input.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\bin\Debug\net6.0\OpenTK.Mathematics.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\bin\Debug\net6.0\OpenTK.OpenAL.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\bin\Debug\net6.0\runtimes\osx-arm64\native\libglfw.3.dylib
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\obj\Debug\net6.0\OpenTK-Cubo.csproj.AssemblyReference.cache
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\obj\Debug\net6.0\OpenTK-Cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\obj\Debug\net6.0\OpenTK-Cubo.AssemblyInfoInputs.cache
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\obj\Debug\net6.0\OpenTK-Cubo.AssemblyInfo.cs
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\obj\Debug\net6.0\OpenTK-Cubo.csproj.CoreCompileInputs.cache
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\obj\Debug\net6.0\OpenTK-Cubo.csproj.CopyComplete
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\obj\Debug\net6.0\OpenTK-Cubo.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\obj\Debug\net6.0\refint\OpenTK-Cubo.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\obj\Debug\net6.0\OpenTK-Cubo.pdb
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\obj\Debug\net6.0\OpenTK-Cubo.genruntimeconfig.cache
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-Cubo-Phong\obj\Debug\net6.0\ref\OpenTK-Cubo.dll
